@@ -1,0 +1,19 @@
+{
+    "name": "vimalpansuriya1698/inspire",
+    "autoload": {
+        "psr-4": {
+            "Vimalpansuriya1698\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vimal Pansuriya",
+            "email": "vimalpansuriya1698@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
